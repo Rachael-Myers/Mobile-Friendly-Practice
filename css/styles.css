@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0,212,255,1);
+}
+.OWHeaderTitle {
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    color: darkslategrey;
+    text-decoration: none;
+    text-shadow: 2px 2px white;
+
+
+
+
+}
+.sectionone {
+    text-align: left;
+    margin: 5%;
+    padding: 5%;
+    border: 5px double black; 
+    border-radius: 25px;
+    background-color: aquamarine;
+}
+.sectionone h2 {
+    font-size: 36px;
+    font-family: Arial, sans;
+    color: darkcyan;
+    text-shadow: 2px 2px darkblue;
+    background-color: aquamarine;
+}
+section h2 u {
+    background-color: aquamarine;
+}
+.sectionone p {
+    color: black;
+    text-shadow: none;
+    background-color: aquamarine;
+}
+.sectiontwo {
+    text-align: right;
+    margin: 5%;
+    padding: 5%;
+    border: 5px double black;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+.sectiontwo h2 {
+    font-size: 36px;
+    font-family: Arial, sans;
+    color: darkcyan;
+    text-shadow: 2px 2px darkblue;
+    background-color: aquamarine;
+}
+.sectiontwo h2 u {
+    background-color: aquamarine;
+}
+.sectiontwo p {
+    color: black;
+    text-shadow: none;
+    background-color: aquamarine;
+}
+footer {
+    background-color: rgb(4, 48, 53);
+    width: 100%;
+    height: 100px;
+}
+footer h3 {
+    width: 100%;
+    height: 100px;
+    background-color: rgba(4, 48, 53);
+    color: azure;
+    padding: 25% teal;
+    text-align: center;
+}
